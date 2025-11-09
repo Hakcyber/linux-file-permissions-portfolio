@@ -10,6 +10,7 @@ In this project, I used Linux commands to explore and manage file permissions to
 ### 1️⃣ List files (including hidden) with permissions
 ```bash
 ls -la /home/researcher2/project
+```
 
 ---
 
